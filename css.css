@@ -1,0 +1,24 @@
+#luachon1{
+    color: rgb(255, 0, 0);
+}
+#tieude{
+    font-size: 500%;
+    font-weight:lighter; 
+    font-style: italic;
+    text-align: center;
+}
+*{
+    text-align: center;
+}
+#nhapnd{
+    font-weight: normal;
+}
+h5{
+    font-size: 100%;
+}
+#gt{
+    background-color: aqua;
+}
+.tieude{
+    background-color: aquamarine;
+}
